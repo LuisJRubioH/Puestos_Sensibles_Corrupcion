@@ -1,0 +1,13 @@
+├── src/
+│   ├── etl/
+│   │   ├── extract.py
+│   │   ├── transform.py
+│   │   └── load.py
+│   │
+│   └── utils/
+│       └── validation.py
+│
+├── notebooks/
+│   └── 01_inspeccion_datosPSC.ipynb  # SOLO exploración
+│
+└── run_etl.py
